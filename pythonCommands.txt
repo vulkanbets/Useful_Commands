@@ -1,0 +1,11 @@
+
+cd C:\Users\Juan\Desktop\
+
+List outdated packages
+pip list --outdated
+
+
+upgrade all packages
+pip freeze | %{$_.split('==')[0]} | %{pip install --upgrade $_}
+
+

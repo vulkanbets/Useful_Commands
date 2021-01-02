@@ -1,0 +1,49 @@
+cd C:\Users\Juan\CompE475\Mips_Matrix_Multiplication_Pipelined
+
+git add -v .
+
+git commit -m "12/20/2020 10:38 pm"
+
+git push -u origin master
+git push -u origin main
+
+
+echo "# MIPS_CPU" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/jcorlando/MIPS_CPU.git
+git push -u origin master
+
+
+
+
+
+
+
+
+REMOVE STUFF FROM STAGING
+git reset --hard
+
+
+$ mkdir mynewproject
+$ cd mynewproject/
+$ git init
+
+# VGA Project using verilog in Vivado on Basys 3 board
+
+
+git rm --cached README.md
+
+.gitattributes
+* linguist-vendored
+*.v linguist-vendored=false
+
+
+git pull origin master
+
+
+
+
+

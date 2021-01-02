@@ -1,0 +1,6 @@
+
+choco upgrade all
+
+choco list --local-only
+
+
