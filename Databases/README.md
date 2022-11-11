@@ -67,3 +67,6 @@ If you made a mistake at some point you can undo all the steps above by executin
 DROP USER myuser@localhost;
 DROP DATABASE mydb;
 ```
+---
+---
+---
