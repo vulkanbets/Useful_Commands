@@ -78,3 +78,6 @@ DROP DATABASE mydb;
 ~~~bash
 mysql db_name < backup-file.sql
 ~~~
+---
+---
+---
