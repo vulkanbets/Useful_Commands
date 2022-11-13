@@ -70,3 +70,9 @@ DROP DATABASE mydb;
 ---
 ---
 ---
+<br>
+# Backup/Restoring SQL Databases
+#### To restore a backup created with mysqldump, use the mysql client to import the dump, for example:
+~~~bash
+mysql db_name < backup-file.sql
+~~~
